@@ -41,7 +41,7 @@ Here are some screenshots of the simulation:
 ![Screenshot 2](https://github.com/Aditi31kapil/AI_project-2025-/blob/main/Screenshot%202025-04-16%20181502.png)
 ![Screenshot 3](https://github.com/Aditi31kapil/AI_project-2025-/blob/main/Screenshot%202025-04-16%20181529.png)
 
-##Demo
+##  Demo
 
 https://github.com/user-attachments/assets/3d150216-2440-4c9a-99e6-09ba254f98e9
 
